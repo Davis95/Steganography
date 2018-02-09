@@ -20,7 +20,7 @@ Steganography project for Intro to Computer Security - Spring 2018
 
 5. Now you should be able to run the command "pip2 install pillow"
 
-6. Download Steg.py, Pad.py, and Run_Steg.py and save them to a folder
+6. Clone this repo to your machine
 
 7. Open a terminal, navigate to the folder
 
