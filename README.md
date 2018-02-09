@@ -2,7 +2,7 @@
 
 Steganography project for Intro to Computer Security - Spring 2018
 
-# Instructions for running the program on your machine
+## Instructions for running the program on your machine
 
 ###### Experience may vary per OS
 
