@@ -11,6 +11,7 @@ Steganography project for Intro to Computer Security - Spring 2018
 
 2. Open a terminal and install Homebrew Package Manager for Mac OS
   * This command should install it:
+  
   ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 3. Run the command "brew install python"
